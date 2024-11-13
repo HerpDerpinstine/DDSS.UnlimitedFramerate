@@ -1,6 +1,8 @@
 # DDSS.UnlimitedFramerate
 Adds an Unlimited option to the Framerate Limit Game Setting in [Dale & Dawson Stationery Supplies](https://store.steampowered.com/app/2920570/Dale__Dawson_Stationery_Supplies/)
 
+* Discord: https://discord.gg/JDw423Wskf
+
 ---
 
 ### REQUIREMENTS:
