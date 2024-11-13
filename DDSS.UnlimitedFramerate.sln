@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDSS.UnlimitedFramerate", "DDSS.UnlimitedFramerate.csproj", "{EC32680F-A0BC-4FE6-8200-1AFE49B21541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC32680F-A0BC-4FE6-8200-1AFE49B21541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC32680F-A0BC-4FE6-8200-1AFE49B21541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC32680F-A0BC-4FE6-8200-1AFE49B21541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC32680F-A0BC-4FE6-8200-1AFE49B21541}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E62128E1-C15F-4B79-9E5D-8963E9F867AA}
+	EndGlobalSection
+EndGlobal
