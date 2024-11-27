@@ -58,7 +58,7 @@ namespace DDSS_UnlimitedFramerate
             if (modHelper == null)
                 return;
 
-            Type modFilterType = modHelper.MelonAssembly.Assembly.GetType("DDSS_ModHelper.Utils.RequirementFilterHandler");
+            Type modFilterType = modHelper.MelonAssembly.Assembly.GetType("DDSS_ModHelper.Utils.RequirementFilter");
             if (modFilterType == null) 
                 return;
 
